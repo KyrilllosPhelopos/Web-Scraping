@@ -1,2 +1,2 @@
 # Web-Scraping
-practicing on web scraping projects
+practicing web scraping projects
